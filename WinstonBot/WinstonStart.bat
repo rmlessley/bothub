@@ -1,0 +1,2 @@
+node WinstonBot.js
+PAUSE
